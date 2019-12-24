@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.test.sharding",
+      "nativeLanguage": "zh-cn"
+    },
+    "jhipsterVersion": "6.5.1",
+    "applicationType": "monolith",
+    "baseName": "shardingsphere",
+    "packageName": "com.test.sharding",
+    "packageFolder": "com/test/sharding",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "caffeine",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ODJlM2I2ZGIyMDFiZjUzNDA5YWJiZWQzNmI4MzU1ZDQ3ODk5ODM4YzIwZmYzMjc1MzQxZmYzNzQ5MWEzMGRlYTliMWFiZDhiOTIzNDkxZDYyMGY5MWMwZjgzZGE3MWYyYTBmZWVmYzRiNmNkYjUxZGI3YjlhMzIxMTQyNmUwN2I=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "zh-cn",
+    "languages": ["zh-cn", "en"],
+    "blueprints": []
+  }
+}
